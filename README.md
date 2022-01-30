@@ -6,14 +6,14 @@ This is a project about CRUD (create read update delete) about restaurant review
 
 This is a simple web-application that can manage product that invole, creating, editing and deleting. Using NodeJS with React and Express while database is using MongoDB and deploy both client side and server side at [MongoDB Realm](https://www.mongodb.com/realm).
 
-## Deployment
+## Release
 
-[deployed server](https://restaurant-reviews-mixns.mongodbstitch.com/)
+[Deployed web-application](https://restaurant-reviews-mixns.mongodbstitch.com/)
 
 ## Prerequisites
 
-[nodejs](https://nodejs.org/en/)
-[mongodb](https://www.mongodb.com/)
+[NodeJS](https://nodejs.org/en/)
+[MongoDB](https://www.mongodb.com/)
 
 ## Getting start
 
